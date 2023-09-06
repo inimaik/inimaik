@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @inimaik
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning computer science engineering
-- 💞️ I’m looking to collaborate on web based projrcts
+- 💞️ I’m looking to collaborate on web based projects
 - 📫 Contact me @ inimaikumaran04@gmail.com
 
 <!---
